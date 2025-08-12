@@ -1,0 +1,20 @@
+[
+  {
+    "email": "katherine7246@gmail.com",
+    "confirmEmail": "katherine7246@gmail.com",
+    "zip": "97412",
+    "city": "Blacksburg",
+    "country": "Australia",
+    "password": "123456",
+    "confirmPassword": "123456"
+  },
+  {
+    "email": "christine1876@gmail.com",
+    "confirmEmail": "christine1876@gmail.com",
+    "zip": "58350",
+    "city": "Minnetonka",
+    "country": "Australia",
+    "password": "123456",
+    "confirmPassword": "123456"
+  }
+]
