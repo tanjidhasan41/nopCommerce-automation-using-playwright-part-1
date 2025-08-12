@@ -28,7 +28,7 @@ It automates key user workflows, ensuring that critical features are tested and 
 ## How to Run the Tests
 
 1. **Clone the repository**
-- git clone https://github.com/your-username/nopcommerce-playwright.git
+- git clone repository-link
 - cd nopcommerce-playwright
 
 2. **Install dependencies**
